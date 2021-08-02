@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Shahan Ahmed @WithShahan
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on making any website with React js or Mobile App with React Native
+- 👋 Hi, I’m Shahan Ahmed @codewithshahan
+- 👀 I’m interested in Full-Stack Engineering 
+- 🌱 I’m currently learning Full-Stack Web Development
+- 💞️ I’m looking to collaborate sharing programming tips & tricks with brief explanation animated videos
 - 📫 How to reach me: programmingwithshahan@gmail.com
 - 
-
